@@ -1,4 +1,4 @@
-### Hello welcome //<coders>//
+### Hello welcome <coders>
 
  # <a href="https://www.linkedin.com/in/luis-fernando-montoya-589483200/">Luis Montoya</a> :smiley:
  
@@ -34,8 +34,8 @@ Passionate about development, Machine Learning and open source. Also, currently 
 - Python.
 - Java
 - Competitive Programming.
-- Databases (Firebase, Mysql, Postgresql, Oracle, Mongodb)
-- Data Analysis (Power BI (dax- Language M))
+- Databases (Firebase | Mysql | Postgresql | Oracle | Mongodb)
+- Data Analysis (Power BI (dax | Language M))
 
 **Languages and Tools:**  
 
@@ -53,7 +53,7 @@ Passionate about development, Machine Learning and open source. Also, currently 
 
 
 <a href="https://github.com/LuissMontoya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,java" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,python" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=radical&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
