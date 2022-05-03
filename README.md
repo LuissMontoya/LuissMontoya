@@ -10,7 +10,7 @@
 
 #### 👨🏻‍💻 Currently working on:
 
-<a src="https://www.java.com/es/"><img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png"/></a>
+<a src="https://www.java.com/es/"><img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/></a>
 <a src="https://spring.io/"><img src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png"/></a>
 <a src="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.png"/></a> 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
