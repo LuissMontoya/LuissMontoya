@@ -1,6 +1,6 @@
 ### Hello welcome <coders>
 
- # <a href="https://www.linkedin.com/in/luis-fernando-montoya-589483200/">Ashwani Kumar Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/luis-fernando-montoya-589483200/">Luis Montoya</a> :smiley:
  
  <a href="https://twitter.com/luissmontoyap">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -53,21 +53,10 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 
 <a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
- 
-
-
-##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=radical&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
 
 
 <div align="center">
