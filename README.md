@@ -1,4 +1,4 @@
-### Hello welcome <coders>
+### Hello welcome //<coders>//
 
  # <a href="https://www.linkedin.com/in/luis-fernando-montoya-589483200/">Luis Montoya</a> :smiley:
  
@@ -22,20 +22,20 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Springboot | Node | Angular | learning Flutter Development | Java | Python | Competitive Programming
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+Passionate about development, Machine Learning and open source. Also, currently finishing my career as a systems engineer.
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
+- Frontend (HTML | CSS (Bootstrap | Material Design) | javaScript )
+- Backend ( Springboot | Node)
+- Learning Mobile application development using **Flutter (Dart)**.
 - Python.
 - Java
 - Competitive Programming.
-- Machine Learning
-- Deep Learning
+- Databases (Firebase, Mysql, Postgresql, Oracle, Mongodb)
+- Data Analysis (Power BI (dax- Language M))
 
 **Languages and Tools:**  
 
@@ -52,8 +52,8 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,python" />
+<a href="https://github.com/LuissMontoya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,java" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=radical&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
