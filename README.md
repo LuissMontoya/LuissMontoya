@@ -54,7 +54,7 @@ Passionate about development, continuous learning and open source. Also, current
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissMontoya&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=radical&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LuissMontoya&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="LuissMontoya's GitHub Stats" />
 
 
 <div align="center">
