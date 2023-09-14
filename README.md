@@ -22,20 +22,21 @@
 <br/>
 <br/>
 
-Springboot | Node | Angular | learning Flutter Development | Java | Python | Competitive Programming
+Springboot | Node Js | Angular | learning Flutter Development | Java | Python | Competitive Programming
 
 ## About :sunglasses:
 Passionate about development, continuous learning and open source. Also, currently finishing my career as a systems engineer.
 
 ## Technologies :fire:
-- Frontend (HTML | CSS (Bootstrap | Material Design) | javaScript )
-- Backend ( Springboot | Node)
+- Frontend (HTML | CSS (Bootstrap | Material Design) | javaScript | JSF) - Angular
+- Backend ( Springboot | NodeJs)
 - Learning Mobile application development using **Flutter (Dart)**.
 - Python.
 - Java
 - Competitive Programming.
-- Databases (Firebase | Mysql | Postgresql | Oracle | Mongodb)
+- Databases (Firebase | Mysql | Postgresql | Oracle | Mongodb) - (Pl/Sql)
 - Data Analysis (Power BI (dax | Language M))
+- SIG
 
 **Languages and Tools:**  
 
